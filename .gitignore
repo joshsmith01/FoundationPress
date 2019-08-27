@@ -10,3 +10,8 @@ config.yml
 packaged/
 wpcs/
 vendor/
+
+
+# Backstop JS files
+backstop_data/html_report/
+bitmaps_test/
